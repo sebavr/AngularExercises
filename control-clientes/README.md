@@ -1,3 +1,9 @@
+Aplicación de control de clientes,utilizando Angular y firebase.
+
+Link:https://control-clientes-ed471.web.app/login
+
+
+
 # ControlClientes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.4.
