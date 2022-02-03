@@ -2,6 +2,11 @@ Aplicación de control de clientes,utilizando Angular y firebase.
 
 Link:https://control-clientes-ed471.web.app/login
 
+Para entrar por favor usar estos datos:
+
+Email:seba@gmail.com
+Password:123456
+
 
 
 # ControlClientes
